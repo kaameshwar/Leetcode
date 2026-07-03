@@ -12,10 +12,12 @@ class Solution {
 
 
         }
-
-        for (int i =0; i<arr.length;i++){
+        int i =0;
+        while(i<arr.length){
             System.out.printf("%d", arr[i]);
+            i++;
         }
+        
  
 
         return j;
