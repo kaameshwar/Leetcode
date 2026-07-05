@@ -9,6 +9,7 @@ Leetcode question which were solved by me for DSA preparation.
 | [0136-single-number](https://github.com/kaameshwar/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kaameshwar/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/kaameshwar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/kaameshwar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -34,4 +35,5 @@ Leetcode question which were solved by me for DSA preparation.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kaameshwar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/kaameshwar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
