@@ -6,6 +6,7 @@ Leetcode question which were solved by me for DSA preparation.
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaameshwar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kaameshwar/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kaameshwar/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/kaameshwar/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -45,4 +46,8 @@ Leetcode question which were solved by me for DSA preparation.
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/kaameshwar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kaameshwar/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/kaameshwar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
