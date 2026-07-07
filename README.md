@@ -11,6 +11,7 @@ Leetcode question which were solved by me for DSA preparation.
 | [0219-contains-duplicate-ii](https://github.com/kaameshwar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kaameshwar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0905-sort-array-by-parity](https://github.com/kaameshwar/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/kaameshwar/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -29,6 +30,7 @@ Leetcode question which were solved by me for DSA preparation.
 | ------- |
 | [0169-majority-element](https://github.com/kaameshwar/Leetcode/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/kaameshwar/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/kaameshwar/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
@@ -42,4 +44,5 @@ Leetcode question which were solved by me for DSA preparation.
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/kaameshwar/Leetcode/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/kaameshwar/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 <!---LeetCode Topics End-->
