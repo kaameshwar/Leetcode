@@ -15,6 +15,7 @@ Leetcode question which were solved by me for DSA preparation.
 | [0643-maximum-average-subarray-i](https://github.com/kaameshwar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kaameshwar/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kaameshwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kaameshwar/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/kaameshwar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kaameshwar/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/kaameshwar/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -29,6 +30,7 @@ Leetcode question which were solved by me for DSA preparation.
 | ------- |
 | [0169-majority-element](https://github.com/kaameshwar/Leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/kaameshwar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/kaameshwar/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kaameshwar/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -52,6 +54,7 @@ Leetcode question which were solved by me for DSA preparation.
 | [0219-contains-duplicate-ii](https://github.com/kaameshwar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/kaameshwar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kaameshwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/kaameshwar/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/kaameshwar/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kaameshwar/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
