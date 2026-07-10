@@ -12,6 +12,7 @@ Leetcode question which were solved by me for DSA preparation.
 | [0189-rotate-array](https://github.com/kaameshwar/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaameshwar/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kaameshwar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/kaameshwar/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/kaameshwar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/kaameshwar/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/kaameshwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -52,6 +53,7 @@ Leetcode question which were solved by me for DSA preparation.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kaameshwar/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kaameshwar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/kaameshwar/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/kaameshwar/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/kaameshwar/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/kaameshwar/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -68,6 +70,7 @@ Leetcode question which were solved by me for DSA preparation.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaameshwar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0413-arithmetic-slices](https://github.com/kaameshwar/Leetcode/tree/master/0413-arithmetic-slices) |
 ## Binary Search
 |  |
 | ------- |
