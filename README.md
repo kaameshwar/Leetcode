@@ -93,5 +93,6 @@ Leetcode question which were solved by me for DSA preparation.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/kaameshwar/Leetcode/tree/master/0007-reverse-integer) |
 | [0189-rotate-array](https://github.com/kaameshwar/Leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
