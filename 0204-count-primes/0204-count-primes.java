@@ -9,7 +9,7 @@ class Solution {
         }
         for(int j =2;j*j<=n;j++){
             if(array[j]==1){
-                for(int k =2*j;k<=n;k+=j){
+                for(int k =j*j;k<=n;k+=j){
                     array[k]=0;
                 }
             }
