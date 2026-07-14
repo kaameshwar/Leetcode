@@ -7,9 +7,9 @@ class Solution {
         for (int i =2;i<n;i++){
             array[i]=1;
         }
-        for(int j =2;j*j<=n;j++){
+        for(int j =2;j*j<n;j++){
             if(array[j]==1){
-                for(int k =j*j;k<=n;k+=j){
+                for(int k =j*j;k<n;k+=j){
                     array[k]=0;
                 }
             }
