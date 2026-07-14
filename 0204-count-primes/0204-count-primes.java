@@ -14,7 +14,7 @@ class Solution {
                 }
             }
         }
-        for(int iterator =2;iterator<=n;iterator++){
+        for(int iterator =2;iterator<n;iterator++){
             if(array[iterator]==1){
                 count++;
             }
