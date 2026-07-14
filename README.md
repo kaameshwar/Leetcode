@@ -10,6 +10,7 @@ Leetcode question which were solved by me for DSA preparation.
 | [0136-single-number](https://github.com/kaameshwar/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kaameshwar/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kaameshwar/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kaameshwar/Leetcode/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/kaameshwar/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/kaameshwar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/kaameshwar/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -96,4 +97,13 @@ Leetcode question which were solved by me for DSA preparation.
 | [0007-reverse-integer](https://github.com/kaameshwar/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kaameshwar/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/kaameshwar/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/kaameshwar/Leetcode/tree/master/0204-count-primes) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaameshwar/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/kaameshwar/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
