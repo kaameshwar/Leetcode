@@ -4,7 +4,6 @@ class Solution {
         int left =0;
         int answer = 0;
         for (int right =0; right<str.length();right++){
-            if(map.containsKey(str.charAt(right))){
                 while(map.containsKey(str.charAt(right))){
                     map.put(str.charAt(left),map.get(str.charAt(left))-1);
 
@@ -13,7 +12,7 @@ class Solution {
                     }
                     left++;
                 }
-            }
+            
             map.put(str.charAt(right), map.getOrDefault(str.charAt(right), 0)+1);
 
             answer = Math.max(answer,(right-left)+1);
