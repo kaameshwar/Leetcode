@@ -6,6 +6,7 @@ Leetcode question which were solved by me for DSA preparation.
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kaameshwar/Leetcode/tree/master/0016-3sum-closest) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kaameshwar/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/kaameshwar/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/kaameshwar/Leetcode/tree/master/0169-majority-element) |
@@ -49,6 +50,7 @@ Leetcode question which were solved by me for DSA preparation.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kaameshwar/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/kaameshwar/Leetcode/tree/master/0169-majority-element) |
 | [0905-sort-array-by-parity](https://github.com/kaameshwar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kaameshwar/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -77,6 +79,7 @@ Leetcode question which were solved by me for DSA preparation.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/kaameshwar/Leetcode/tree/master/0016-3sum-closest) |
 | [0189-rotate-array](https://github.com/kaameshwar/Leetcode/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/kaameshwar/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kaameshwar/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
