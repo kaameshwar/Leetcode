@@ -4,11 +4,11 @@ class Solution {
         
         int left =0;
         int right =n-1;
-        if(n==1){
-            if(nums[0]== target) return 0;
-            else return -1;
+        // if(n==1){
+        //     if(nums[0]== target) return 0;
+        //     else return -1;
 
-        }
+        // }
         while(left<=right){
             int mid = (left+right)/2;
             if(nums[mid]== target){
